@@ -6,6 +6,14 @@ All notable cmduick releases distributed from this repository.
 
 _No pending public build._
 
+## [0.3.1](https://github.com/Quepuick/cmduick-updates/releases/tag/v0.3.1) — 2026-11-06
+
+**Download:** [cmduick-0.3.1.vsix](https://github.com/Quepuick/cmduick-updates/releases/latest)
+
+# Changelog
+
+All notable cmduick releases distributed from this repository.
+
 ## [0.3.0](https://github.com/Quepuick/cmduick-updates/releases/tag/v0.3.0) — 2026-11-06
 
 First public VSIX channel release.
