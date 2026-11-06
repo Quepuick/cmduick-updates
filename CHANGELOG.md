@@ -10,10 +10,6 @@ _No pending public build._
 
 **Download:** [cmduick-0.3.1.vsix](https://github.com/Quepuick/cmduick-updates/releases/latest)
 
-# Changelog
-
-All notable cmduick releases distributed from this repository.
-
 ## [0.3.0](https://github.com/Quepuick/cmduick-updates/releases/tag/v0.3.0) — 2026-11-06
 
 First public VSIX channel release.
@@ -23,5 +19,3 @@ First public VSIX channel release.
 - Asset & migration health indicators
 - Settings Global / Projet cascade
 - Update check against this repository
-
-**Download:** [cmduick-0.3.0.vsix](https://github.com/Quepuick/cmduick-updates/releases/latest)
