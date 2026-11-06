@@ -6,6 +6,10 @@ All notable cmduick releases distributed from this repository.
 
 _No pending public build._
 
+## [0.5.0](https://github.com/Quepuick/cmduick-updates/releases/tag/v0.5.0) — 2026-11-06
+
+**Download:** [cmduick-0.5.0.vsix](https://github.com/Quepuick/cmduick-updates/releases/latest)
+
 ## [0.4.0](https://github.com/Quepuick/cmduick-updates/releases/tag/v0.4.0) — 2026-11-06
 
 **Download:** [cmduick-0.4.0.vsix](https://github.com/Quepuick/cmduick-updates/releases/latest)
